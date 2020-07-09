@@ -1,0 +1,20 @@
+{
+  "name": "longest-sequence-on-subsequence",
+  "version": "1.0.0",
+  "description": "Algorithm to find longest sequence from s1 in a subsequence of s2",
+  "main": "lab1.js",
+  "scripts": {
+    "start": "node lab1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgumiero9/longest-sequence-on-subsequence.git"
+  },
+  "author": "mgumiero9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgumiero9/longest-sequence-on-subsequence/issues"
+  },
+  "homepage": "https://github.com/mgumiero9/longest-sequence-on-subsequence#readme"
+}
